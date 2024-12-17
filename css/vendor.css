@@ -870,3 +870,14 @@ button.swiper-pagination-bullet {
     transform : scale(1);
     opacity   : 1;
 }
+
+.highlight-h2 {
+    color: #eabe7b !important; /* New color */
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+
+
+
+
