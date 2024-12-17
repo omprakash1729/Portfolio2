@@ -284,6 +284,18 @@
      */
     --gutter : 2rem;
 }
+:root {
+    --h2-color: #YourH2Color; /* Replace with the actual H2 color */
+}
+
+h2 {
+    color: var(--h2-color); /* Ensure H2 tags are styled using the variable */
+}
+
+.highlight-h2 {
+    color: var(--h2-color); /* Match the H2 color */
+}
+
 
 /* on medium screen devices
  */
