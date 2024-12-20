@@ -4250,3 +4250,16 @@ img.u-pull-left {
         right : 6vw;
     }
 }
+
+
+
+
+.blog-page {
+    margin: 45px; /* Adds space around the entire body */
+    padding: 0;
+    box-sizing: border-box; /* Includes padding and border in width/height calculations */
+}
+
+.blog-page * {
+    box-sizing: border-box; /* Ensures consistency across all elements */
+}
